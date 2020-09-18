@@ -1,0 +1,7 @@
+build
+tags
+*.o
+*.a
+*.so
+
+*.pgm
